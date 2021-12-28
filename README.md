@@ -2,7 +2,7 @@
 - 👀 I’m interested in anything AI, Robotics, Quantum Computing, and Physics related
 - 🌱 I’m currently learning Huggingface Transformers
 - 💞️ I’m looking to collaborate on reinforcement learning and algo trading projects
-- 📫 How to reach me: Acopolu3121@gmail.com
+- 📫 How to reach me: edward.l.gu@gmail.com
 - Check out MyCourseIndex Cheatsheet, ProjectX, and Self-Driving Car repos in the Cornell Data Science github!
 
 <!---
