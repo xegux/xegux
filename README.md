@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @xegux
-- 👀 I’m interested in anything AI, Robotics, Quantum Computing, and Physics related
-- 🌱 I’m currently learning Huggingface Transformers
+- 👀 I’m interested in anything AI, Robotics, and Quantum Computing related
 - 💞️ I’m looking to collaborate on reinforcement learning and algo trading projects
 - 📫 How to reach me: edward.l.gu@gmail.com
-- Check out MyCourseIndex Cheatsheet, ProjectX, and Self-Driving Car repos in the Cornell Data Science github!
+- Check out repos in the Cornell Data Science github!
 
 <!---
 xegux/xegux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
